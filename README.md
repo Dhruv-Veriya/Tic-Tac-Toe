@@ -6,6 +6,7 @@ Features:
 ✅ Simple AI (optional)
 ✅ Detects win, loss, and draw conditions
 ✅ Clean and modular code
+
 Installation & Usage:
 - Clone the repository:
 git clone https://github.com/your-username/tic-tac-toe.git
